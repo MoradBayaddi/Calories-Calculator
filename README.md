@@ -7,7 +7,8 @@ Start making informed decisions about your diet today!
 
 How to Use
 
-Visit the website: 
+Visit the website: https://moradbayaddi.github.io/Calories-Calculator/
+
 Input your personal details and food intake.
 Receive instant feedback on calories consumed and nutritional values.
 
