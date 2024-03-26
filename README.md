@@ -5,7 +5,7 @@ This user-friendly tool is designed to help you track your daily caloric intake 
 By inputting your details and food intake, you can receive instant feedback on calories consumed and other nutritional values. 
 Start making informed decisions about your diet today!
 
-# How to Use
+## How to Use
 
 - Visit the website: [Calories Calculator](https://moradbayaddi.github.io/Calories-Calculator/)
 
@@ -14,7 +14,7 @@ Start making informed decisions about your diet today!
 - Receive instant feedback on calories consumed and nutritional values.
 
 
-# Features
+## Features
 
 - User friendly interface
   
@@ -24,7 +24,7 @@ Start making informed decisions about your diet today!
   
 
 
-# Feedback
+## Feedback
 
 We value your feedback! If you encounter any issues or have suggestions for improvement, please let us know by opening an issue on GitHub.
 
